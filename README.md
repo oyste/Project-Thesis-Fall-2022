@@ -1,4 +1,4 @@
-# Project-Thesis-Fall-2022
+# Specialization-Project-Fall-2022
  This repo contains code made for my specialization project fall 2022. 
 
 The main code framework used for preprocessing, feature extraction, cross validation and classification for the binary classifier I designed for PhysioNet CinC 2016 challenge dataset can be found in **\binary classifier**.
